@@ -1,0 +1,18 @@
+{
+  "authors": [
+    "Piper Merriam <pipermerriam@gmail.com>"
+  ],
+  "description": "An Ethereum library which implements a struct which can be used for standard set operations on bytes32 values which has O(1) existence, add, and remove operations as well as being enumerable",
+  "keywords": [
+    "library",
+    "data-type",
+    "enumerable-set"
+  ],
+  "license": "MIT",
+  "links": {
+    "repository": "https://github.com/pipermerriam/ethereum-indexed-enumerable-set-lib"
+  },
+  "manifest_version": "1",
+  "package_name": "indexed-enumerable-set-lib",
+  "version": "1.0.0"
+}
